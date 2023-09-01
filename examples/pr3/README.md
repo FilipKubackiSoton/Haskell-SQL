@@ -1,0 +1,2 @@
+# Problem 3 - Left Merge on First Column
+Assume two input symbols P : 4 and Q : 4. The output should contain rows as follows: for each row p1, p2, p3, p4 in P and each row q1, q2, q3, q4 in Q such that p1 = q1 the output should contain row p1, r2, r3, r4 where ri is qi if pi is empty and pi otherwise. The output arity is 4.

@@ -1,0 +1,1 @@
+SELECT $2, $0 FROM FILE(A.csv) WHERE $0 == $1

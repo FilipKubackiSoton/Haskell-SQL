@@ -1,0 +1,2 @@
+# Problem 5 - Copying and Constants
+Assume that A : 1 is an input symbol. The output should be as follows: For each row a1 in A, the output should contain a row a1, 0, a1 where 0 is the fixed string “0”.

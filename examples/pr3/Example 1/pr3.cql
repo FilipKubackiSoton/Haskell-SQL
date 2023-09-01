@@ -1,0 +1,1 @@
+SELECT * FROM FILE(P.csv) MERGE FILE(Q.csv)

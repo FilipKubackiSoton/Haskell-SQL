@@ -1,0 +1,1 @@
+SELECT * FROM FILE(A.csv) WHERE $1 != ''
